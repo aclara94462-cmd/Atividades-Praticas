@@ -1,0 +1,26 @@
+# Visual Studio
+.vs/
+.vscode/
+
+# Arquivos de compilação
+bin/
+obj/
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.log
+
+# Arquivos gerados pelo Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de backup
+*.bak
+*.backup
